@@ -1,1 +1,1 @@
-# Kaggle-Mini-Project-World-Development-Indicators
+# Kaggle Mini Project - World Development Indicators
